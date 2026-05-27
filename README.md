@@ -165,3 +165,13 @@ The study contributes:
 # Author
 
 Research project developed for IEEE-style clinical NLP research experimentation.
+
+# Improvements
+•	better formatting
+•	references
+•	methodology explanation
+•	results explanation
+•	badges
+•	installation guide
+•	citations
+•	figure descriptions
