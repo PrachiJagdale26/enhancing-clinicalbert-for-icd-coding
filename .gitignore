@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+baseline_model/
+negation_model/
+section_model/
+results/
+negation_results/
+section_results/
+
+# Pickle files
+*.pkl
+
+# Large model files
+*.bin
+*.pt
+
+# Dataset files
+*.csv.gz
+NOTEEVENTS.csv.gz
+DIAGNOSES_ICD.csv.gz
+
+# VSCode
+.vscode/
