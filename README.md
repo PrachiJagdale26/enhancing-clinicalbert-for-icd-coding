@@ -175,3 +175,11 @@ Research project developed for IEEE-style clinical NLP research experimentation.
 •	installation guide
 •	citations
 •	figure descriptions
+
+---
+
+# Contributing
+
+We welcome contributions to improve this research code and documentation. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting issues, proposing changes, coding style, and submitting pull requests.
+
+---
